@@ -103,6 +103,9 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
 
 ## 2022.7.20:
 
++ 不好分类
+  1. [来自contest] 应该只是……DP？[CF1099F](https://www.luogu.com.cn/problem/CF1099F)
+
 + [树链剖分](http://oi-wiki.com/graph/hld/)
   1. [A1] 还算板？吧？ [P7735](https://www.luogu.com.cn/problem/P7735)
   2. [B1] 长链剖分 [P5903](https://www.luogu.com.cn/problem/P5903)
