@@ -127,3 +127,6 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   4. [何昌璟老师特供版] 何昌璟老师特供版 [P5311](https://www.luogu.com.cn/problem/P5311)
   5. [范小冉老师特供版] 范小冉老师特供版 [P3714](https://www.luogu.com.cn/problem/P3714)
 
++ 二离莫队
+  1. [P4887](https://www.luogu.com.cn/problem/P4887)
+  2. [P5047](https://www.luogu.com.cn/problem/P5047)
