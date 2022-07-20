@@ -33,7 +33,7 @@ F3: [HYSBZ 5028](https://vjudge.net/problem/HYSBZ-5028)
 
 简单题: [P7560](https://www.luogu.com.cn/problem/P7560)
 
-快乐题: [UOJ 614](https://vjudge.net/problem/UniversalOJ-614)
+快乐题: [UOJ 614](https://uoj.ac/problem/614)
 
 KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课上是谁给的这道题）
 
@@ -58,12 +58,13 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   3. [A3] 分块+可撤销并查集 [P5443](https://www.luogu.com.cn/problem/P5443)
 
 + [莫队](http://oi-wiki.com/misc/mo-algo/)
-  1. [例题] 约等于板子 [P1494](https://www.luogu.com.cn/problem/P1494)
-  2. [带修] 好像不是例题里的？ [P1903](https://www.luogu.com.cn/problem/P1903)
-  3. [树上莫队] 好像不是例题里的? [SP10707](https://www.luogu.com.cn/problem/SP10707)
-  4. [回滚莫队] 板子 [P4137](https://www.luogu.com.cn/problem/P4137)
-  5. [回滚莫队] [P8078](https://www.luogu.com.cn/problem/P8078)
-  6. [回滚莫队] [P5906](https://www.luogu.com.cn/problem/P5906)
+  1. [板子] [P3384](https://www.luogu.com.cn/problem/P3384)
+  2. [例题] 约等于板子 [P1494](https://www.luogu.com.cn/problem/P1494)
+  3. [带修] 好像不是例题里的？ [P1903](https://www.luogu.com.cn/problem/P1903)
+  4. [树上莫队] 好像不是例题里的? [SP10707](https://www.luogu.com.cn/problem/SP10707)
+  5. [回滚莫队] 板子 [P4137](https://www.luogu.com.cn/problem/P4137)
+  6. [回滚莫队] [P8078](https://www.luogu.com.cn/problem/P8078)
+  7. [回滚莫队] [P5906](https://www.luogu.com.cn/problem/P5906)
 
 ## 2022.7.20:
 
