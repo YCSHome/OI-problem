@@ -73,6 +73,7 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   3. [B2] QWQ [CF1009F](https://www.luogu.com.cn/problem/CF1009F)
   3. [B3] 两道题是一个意思 [P5904](https://www.luogu.com.cn/problem/P5904)
   4. [B3-] 弱化版 [P3565](https://www.luogu.com.cn/problem/P3565)
+  5. [板子] 群友的要求 [P3384](https://www.luogu.com.cn/problem/P3384)
 
 + [(树上)启发式合并](http://oi-wiki.com/graph/dsu-on-tree/)
   1. [C1] 完犊子 [CF600E](https://www.luogu.com.cn/problem/CF600E)
