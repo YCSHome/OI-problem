@@ -2,9 +2,45 @@
 
 ## 2022.7.17:
 
-由于今天黄队在恰饭，惹怒了OI之神所以不给题单
+[练习赛](https://vjudge.csgrandeur.cn/contest/505263)
 
-~~就是没有整理懒死了~~
+[并查集 - 「模板」并查集](https://www.luogu.com.cn/problem/P3367)
+
+[A1 - 「福建夏令营」白雪皑皑](https://www.luogu.com.cn/problem/P2391)
+
+[A2 - Not Found]()
+
+[A3 - 「NOI2015」程序自动分析](https://www.luogu.com.cn/problem/P1955)
+
+[可撤销并查集 - Not Found]()
+
+[倍增与ST表 - 「模板」ST表](https://www.luogu.com.cn/problem/P3865)
+
+[B1 - 「SCOI2016」萌萌哒](https://loj.ac/p/2014)
+
+[B2 - Not Found]()
+
+[倍增LCA - 「模板」最近公共祖先](https://www.luogu.com.cn/problem/P3379)
+
+[Kruskal重构树 - 「NOI2018」归程（相似题）](https://www.luogu.com.cn/problem/P4768)
+
+[C1 - Not Found]()
+
+[树状数组 - 「模板」树状数组](https://www.luogu.com.cn/problem/P3374)
+
+[树状数组二分 - Not Found]()
+
+[D1 - 「联合省选 2020 A | B」冰火战士](https://www.luogu.com.cn/problem/P6619)
+
+[线段树 - 「模板」线段树1](https://www.luogu.com.cn/problem/P3372)
+
+[E0 - 「模板」线段树2](https://www.luogu.com.cn/problem/P3373)
+
+[E1 - 「模板」扫描线](https://www.luogu.com.cn/problem/P5490)
+
+[E2 - 「HAOI2012」高速公路](https://www.luogu.com.cn/problem/P2221)
+
+__感谢群友提供__
 
 ## 2022.7.18:
 
