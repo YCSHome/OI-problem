@@ -136,6 +136,8 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
 
 ## 2022.7.21:
 
+谢谢群友的帮助。
+
 + 平衡树:
   1. [A1] 板子 [P3369](https://www.luogu.com.cn/problem/P3369)
   2. [A2] 文艺平衡树,splay [P3391](https://www.luogu.com.cn/problem/P3391)
@@ -147,7 +149,7 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   8. [B5] ODT板(老老实实用平衡树) [CF896C](https://www.luogu.com.cn/problem/CF896C)
   9. [某位同学提供] 序列 [P5350](https://www.luogu.com.cn/problem/P5350)
   10. [B6-] 原题削弱版，题意差不多 [P3522](https://www.luogu.com.cn/problem/P3522)
-  12. [B6] 没找到 qwq
+  12. [B6] 严格上升子序列 [CF809D](https://www.luogu.com.cn/problem/CF809D) 
   13. [B7] 密码箱 [P7739](https://www.luogu.com.cn/problem/P7739)
 
 + LCT:
