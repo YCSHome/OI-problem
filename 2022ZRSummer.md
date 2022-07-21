@@ -153,4 +153,6 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
 + LCT:
   1. [C1] LCT板子 [P3690](https://www.luogu.com.cn/problem/P3690)
   2. [D1] 判断连通 [P2147](https://www.luogu.com.cn/problem/P2147)
-  3. [D2] 没找到
+  3. [D2] 魔法森林 [P2387](https://www.luogu.com.cn/problem/P2387)
+  4. [D3] 大融合 [P4219](https://www.luogu.com.cn/problem/P4219)
+  5. [D4] 树点染色 [P3703](https://www.luogu.com.cn/problem/P3703)
