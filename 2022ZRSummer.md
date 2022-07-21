@@ -4,41 +4,31 @@
 
 [练习赛](https://vjudge.csgrandeur.cn/contest/505263)
 
-[并查集 - 「模板」并查集](https://www.luogu.com.cn/problem/P3367)
++ 并查集
+  1. [例题] 板子 [P3367](https://www.luogu.com.cn/problem/P3367)
+  2. [A1] 白雪皑皑 [P2391](https://www.luogu.com.cn/problem/P2391)
+  3. [A2] 没找到 qwq
+  4. [A3] 程序自动分析 [P1955](https://www.luogu.com.cn/problem/P1955)
 
-[A1 - 「福建夏令营」白雪皑皑](https://www.luogu.com.cn/problem/P2391)
++ 倍增
+  1. [板子] ST表 [P3865](https://www.luogu.com.cn/problem/P3865)
+  2. [板子] LCA [P3379](https://www.luogu.com.cn/problem/P3379)
+  3. [B1] 倍增+并查集 [P3865](https://www.luogu.com.cn/problem/P3295)
+  4. [B2] 没找到 qwq
 
-[A2 - Not Found]()
++ Kruskal
+  1. [例题] 重构树 [P4768](https://www.luogu.com.cn/problem/P4768)
+  2. [C1] 没找到qwq
 
-[A3 - 「NOI2015」程序自动分析](https://www.luogu.com.cn/problem/P1955)
++ 树状数组
+  1. [板子] 树状数组 [P3374](https://www.luogu.com.cn/problem/P3374)
+  2. [D1] 冰火战士 [P6619](https://www.luogu.com.cn/problem/P6619);
 
-[可撤销并查集 - Not Found]()
-
-[倍增与ST表 - 「模板」ST表](https://www.luogu.com.cn/problem/P3865)
-
-[B1 - 「SCOI2016」萌萌哒](https://loj.ac/p/2014)
-
-[B2 - Not Found]()
-
-[倍增LCA - 「模板」最近公共祖先](https://www.luogu.com.cn/problem/P3379)
-
-[Kruskal重构树 - 「NOI2018」归程（相似题）](https://www.luogu.com.cn/problem/P4768)
-
-[C1 - Not Found]()
-
-[树状数组 - 「模板」树状数组](https://www.luogu.com.cn/problem/P3374)
-
-[树状数组二分 - Not Found]()
-
-[D1 - 「联合省选 2020 A | B」冰火战士](https://www.luogu.com.cn/problem/P6619)
-
-[线段树 - 「模板」线段树1](https://www.luogu.com.cn/problem/P3372)
-
-[E0 - 「模板」线段树2](https://www.luogu.com.cn/problem/P3373)
-
-[E1 - 「模板」扫描线](https://www.luogu.com.cn/problem/P5490)
-
-[E2 - 「HAOI2012」高速公路](https://www.luogu.com.cn/problem/P2221)
++ 线段树
+  1. [板子] 线段树 [P3372](https://www.luogu.com.cn/problem/P3372)
+  2. [板子] 线段树2 [P3372](https://www.luogu.com.cn/problem/P3373)
+  3. [E1] 板子，扫描线 [P5490](https://www.luogu.com.cn/problem/P5490)
+  4. [E2] 高速公路 [P2221](https://www.luogu.com.cn/problem/P2221)
 
 __感谢群友提供__
 
@@ -60,8 +50,7 @@ E7: [CF1221F](https://www.luogu.com.cn/problem/CF1221F)
 
 F1: [CF438D](https://www.luogu.com.cn/problem/CF438D)
 
-F2: [UOJ228](https://vjudge.net/problem/UniversalOJ-228)
-[HDU5828](https://vjudge.net/problem/HDU-5828)
+F2: [UOJ228](https://vjudge.net/problem/UniversalOJ-228) [HDU5828](https://vjudge.net/problem/HDU-5828)
 
 F3: [HYSBZ 5028](https://vjudge.net/problem/HYSBZ-5028)
 
