@@ -133,3 +133,11 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
 + 二离莫队
   1. [P4887](https://www.luogu.com.cn/problem/P4887)
   2. [P5047](https://www.luogu.com.cn/problem/P5047)
+
+## 2022.7.21:
+
++ 平衡树:
+  1. [A1] 板子 [P3369](https://www.luogu.com.cn/problem/P3369)
+  2. [A2] 文艺平衡树,splay [P3391](https://www.luogu.com.cn/problem/P3391)
+  3. [B1] 板子吧? [P1486](https://www.luogu.com.cn/problem/P1486)
+  4. [B2] 快乐 [P3285](https://www.luogu.com.cn/problem/P3285)
