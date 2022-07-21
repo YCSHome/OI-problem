@@ -140,4 +140,6 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   1. [A1] 板子 [P3369](https://www.luogu.com.cn/problem/P3369)
   2. [A2] 文艺平衡树,splay [P3391](https://www.luogu.com.cn/problem/P3391)
   3. [B1] 板子吧? [P1486](https://www.luogu.com.cn/problem/P1486)
-  4. [B2] 快乐 [P3285](https://www.luogu.com.cn/problem/P3285)
+  4. [B2] 方伯伯的OJ [P3285](https://www.luogu.com.cn/problem/P3285)
+  5. [B3] 机械排序 [P4402](https://www.luogu.com.cn/problem/P4402)
+  6. [B3] 排序机械臂 [P3165](https://www.luogu.com.cn/problem/P3165) 一模一样
