@@ -143,3 +143,9 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   4. [B2] 方伯伯的OJ [P3285](https://www.luogu.com.cn/problem/P3285)
   5. [B3] 机械排序 [P4402](https://www.luogu.com.cn/problem/P4402)
   6. [B3] 排序机械臂 [P3165](https://www.luogu.com.cn/problem/P3165) 一模一样
+  7. [B4] 区间查询，但是数据范围爆炸 [CF915E](https://www.luogu.com.cn/problem/CF915E)
+  8. [B5] ODT板(老老实实用平衡树) [CF896C](https://www.luogu.com.cn/problem/CF896C)
+  9. [某位同学提供] 序列 [P5350](https://www.luogu.com.cn/problem/P5350)
+  10. [B6-] 原题削弱版，题意差不多 [P3522](https://www.luogu.com.cn/problem/P3522)
+  12. [B6] 没找到 qwq
+  13. [B7] 密码箱 [P7739](https://www.luogu.com.cn/problem/P7739)
