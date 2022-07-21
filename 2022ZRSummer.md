@@ -44,6 +44,8 @@ __感谢群友提供__
 
 ## 2022.7.18:
 
+[练习赛](https://vjudge.csgrandeur.cn/contest/505431)
+
 E3: [CF446C](https://www.luogu.com.cn/problem/CF446C)
 
 E4: [CF452F](https://www.luogu.com.cn/problem/CF452F)
@@ -75,6 +77,8 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
 
 ## 2022.7.19:
 
+[练习赛](https://vjudge.csgrandeur.cn/contest/505624)
+
 + [CDQ分治](https://oi-wiki.org/misc/cdq-divide/)：
   1. [不完全是例题] 三维偏序模板 [P3810](https://www.luogu.com.cn/problem/P3810)
   2. [C1] 如何正确排序 [P8253](https://www.luogu.com.cn/problem/P8253) (可能要卡常)
@@ -102,6 +106,8 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   6. [回滚莫队] [P5906](https://www.luogu.com.cn/problem/P5906)
 
 ## 2022.7.20:
+
+[练习赛](https://vjudge.csgrandeur.cn/contest/505851)
 
 + 不好分类
   1. [来自contest] 应该只是……DP？[CF1099F](https://www.luogu.com.cn/problem/CF1099F)
@@ -135,6 +141,8 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   2. [P5047](https://www.luogu.com.cn/problem/P5047)
 
 ## 2022.7.21:
+
+练习赛 暂无
 
 + 平衡树:
   1. [A1] 板子 [P3369](https://www.luogu.com.cn/problem/P3369)
