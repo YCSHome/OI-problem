@@ -153,3 +153,34 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   3. [D2] 魔法森林 [P2387](https://www.luogu.com.cn/problem/P2387)
   4. [D3] 大融合 [P4219](https://www.luogu.com.cn/problem/P4219)
   5. [D4] 树点染色 [P3703](https://www.luogu.com.cn/problem/P3703)
+
+## 2022.7.22
+
++ 可持久化Trie
+  1. [A1] 可持久化Trie qwq [P4735](https://www.luogu.com.cn/problem/P4735)
+  2. [A2] 异或粽子 [P5283](https://www.luogu.com.cn/problem/P5283)
+  3. [A2+] 异或粽子加强版 [CF241B](https://www.luogu.com.cn/problem/CF241B)
+
++ 可持久化线段树
+  1. [B1] 板子 [P3834](https://www.luogu.com.cn/problem/P3834) 可整体二分氵过去
+  2. [B2] Count on a tree [P2633](https://www.luogu.com.cn/problem/P2633)
+  3. [B3] 又是可以整体二分的一天 [P2617](https://www.luogu.com.cn/problem/P2617)
+  4. [B4] 可持久化线段树 [UOJ218](https://vjudge.net/problem/UniversalOJ-218)
+  5. [B5] To The Moon [HDU4348](https://vjudge.net/problem/HDU-4348) 有条件一定要在不看解说前提下玩玩这个游戏qwq
+
++ 可持久化并查集
+  1. [C1] 板子 [P3402](https://www.luogu.com.cn/problem/P3402)
+  2. [C2] 归程 [P4768](https://www.luogu.com.cn/problem/P4768)
+
++ 可持久化可并堆
+  1. [毒瘤群友特供版] qwq [P2483](https://www.luogu.com.cn/problem/P2483)
+
++ 可持久化平衡树
+  1. [E1] 板子 [P3835](https://www.luogu.com.cn/problem/P3835)
+  2. [E2] 贪心啊 [LOJ2840](https://vjudge.net/problem/LibreOJ-2840)
+
++ 点分树（淀粉树）
+  1. [板子] 淀粉树板子 [P3345](https://www.luogu.com.cn/problem/P3345)
+  2. [淀粉] 也许可以LCT [SP2939](https://www.luogu.com.cn/problem/SP2939)
+  3. [点分] 何昌璟老师曾经安利过的一道题 [P5311](https://www.luogu.com.cn/problem/P5311)
+
