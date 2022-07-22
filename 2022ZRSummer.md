@@ -188,3 +188,4 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   2. [淀粉] 也许可以LCT [SP2939](https://www.luogu.com.cn/problem/SP2939)
   3. [点分] 何昌璟老师曾经安利过的一道题 [P5311](https://www.luogu.com.cn/problem/P5311)
 
+致谢 [![](https://avatars.githubusercontent.com/u/95111801?v=4)](https://github.com/Z-301) 对本题单的贡献
