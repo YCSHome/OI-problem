@@ -1,5 +1,7 @@
 # 暑假题单汇总
 
+注：本页所有练习赛密码均为 `clbzdq` 。
+
 ## 2022.7.17:
 
 [练习赛](https://vjudge.csgrandeur.cn/contest/505263)
@@ -155,6 +157,8 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
   5. [D4] 树点染色 [P3703](https://www.luogu.com.cn/problem/P3703)
 
 ## 2022.7.22
+
+[练习赛](https://vjudge.net/contest/506272)
 
 + 可持久化Trie
   1. [A1] 可持久化Trie qwq [P4735](https://www.luogu.com.cn/problem/P4735)
