@@ -131,7 +131,7 @@ KD乱搞plus [P4357](https://www.luogu.com.cn/problem/P4357) （猜猜当时课�
 
 ## 2022.7.21:
 
-[练习赛](https://vjudge.net/contest/506044)
+[练习赛](https://vjudge.csgrandeur.cn/contest/506044)
 
 + 平衡树:
   1. [A1] 板子 [P3369](https://www.luogu.com.cn/problem/P3369)
