@@ -233,7 +233,7 @@ __感谢群友提供__
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  E1  |  可持久化平衡树 |   [P3835](https://www.luogu.com.cn/problem/P3835)  |            |
-  |  E2  |       糖        | [LOJ2840](https://www.luogu.com.cn/problem/LOJ2840)|            |
+  |  E2  |       糖        | [LOJ2840](https://vjudge.net/problem/LibreOJ-2840) |            |
 
 + 点分树（淀粉树）
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
@@ -262,3 +262,27 @@ __感谢群友提供__
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   | 找的 |  二次离线莫队   |     [2261](http://zhengruioi.com/problem/2261)     |其实是最短路|
+
+## 2022.7.24
+
+训练赛 暂无
+
++ 动态规划
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  A1  |Outer space invaders|[P4766](https://www.luogu.com.cn/problem/P4766)  |            |
+  |  B1  |    石子合并     |   [P1880](https://www.luogu.com.cn/problem/P1880)  |            |
+  |  B2  |    NapTime      |   [P6064](https://www.luogu.com.cn/problem/P6064)  |            |
+  |  B2  |    NapTime      |   [SP283](https://www.luogu.com.cn/problem/SP283)  |  双倍经验  |
+  |  C1+ |    保安站岗    |[P2458](https://www.luogu.com.cn/problem/P2458)|与C1不同的是有权值|
+  |  C2  |      暂无       |                                                    |            |
+  |  C3  |     苹果树      |   [P3780](https://www.luogu.com.cn/problem/P3780)  |            |
+  |  C4  |Great Cow Gathering G|[P2986](https://www.luogu.com.cn/problem/P2986) |            |
+  |  C5  |     快餐店      |   [P1399](https://www.luogu.com.cn/problem/P1399)  |            |
+  |  D1  |  Corn Fields G  |   [P1879](https://www.luogu.com.cn/problem/P1879)  |也可以轮廓线|
+  |  D2  |    一双木棋     |   [P4363](https://www.luogu.com.cn/problem/P4363)  |            |
+  |  D3  |      暂无       |                                                    |            |
+  |  D4  |  最小斯坦纳树   |   [P6192](https://www.luogu.com.cn/problem/P6192)  |            |
+  |  D4+ |     巧克力      |   [P7450](https://www.luogu.com.cn/problem/P7450)  | @沈心阁老师|
+  |  D5  |    管道连接     |   [P3264](https://www.luogu.com.cn/problem/P3264)  |            |
+  |  E1  |    插头dp       |   [P5056](https://www.luogu.com.cn/problem/P5056)  |            |
