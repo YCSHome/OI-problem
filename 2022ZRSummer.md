@@ -38,7 +38,7 @@
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   | 群友 |     线段树      |   [P3372](https://www.luogu.com.cn/problem/P3372)  |            |
-  | 群友 |     线段树2     |   [P3372](https://www.luogu.com.cn/problem/P3373)  |            |
+  | 群友 |     线段树2     |   [P3373](https://www.luogu.com.cn/problem/P3373)  |            |
   |  E1  |     扫描线      |   [P5490](https://www.luogu.com.cn/problem/P5490)  |            |
   |  E2  |    高速公路     |   [P2221](https://www.luogu.com.cn/problem/P2221)  |            |
 
@@ -109,7 +109,7 @@ __感谢群友提供__
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  A1  |   历史的研究    |  [AT1219](https://www.luogu.com.cn/problem/AT1219) |            |
   |  A2  |Yuno loves sqrt technology III|[P5048](https://www.luogu.com.cn/problem/P5048)|    |
-  |  A2  |     蒲公英      |   [P5443](https://www.luogu.com.cn/problem/P5443)  |            |
+  |  A2  |     蒲公英      |   [P4168](https://www.luogu.com.cn/problem/P4168)  |            |
   |  A3  |      桥梁       |   [P5443](https://www.luogu.com.cn/problem/P5443)  |            |
 
 + [莫队](http://oi-wiki.com/misc/mo-algo/)
