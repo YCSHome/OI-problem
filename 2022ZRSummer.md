@@ -274,14 +274,15 @@ __感谢群友提供__
   |  B1  |    石子合并     |   [P1880](https://www.luogu.com.cn/problem/P1880)  |            |
   |  B2  |    NapTime      |   [P6064](https://www.luogu.com.cn/problem/P6064)  |            |
   |  B2  |    NapTime      |   [SP283](https://www.luogu.com.cn/problem/SP283)  |  双倍经验  |
+  |  C1  |Cell Phone Network G|[P2899](https://www.luogu.com.cn/problem/P2899)  |            |
   |  C1+ |    保安站岗    |[P2458](https://www.luogu.com.cn/problem/P2458)|与C1不同的是有权值|
-  |  C2  |      暂无       |                                                    |            |
+  |  C2  |    重建道路     |   [P1272](https://www.luogu.com.cn/problem/P1272)  |            |
   |  C3  |     苹果树      |   [P3780](https://www.luogu.com.cn/problem/P3780)  |            |
   |  C4  |Great Cow Gathering G|[P2986](https://www.luogu.com.cn/problem/P2986) |            |
   |  C5  |     快餐店      |   [P1399](https://www.luogu.com.cn/problem/P1399)  |            |
   |  D1  |  Corn Fields G  |   [P1879](https://www.luogu.com.cn/problem/P1879)  |也可以轮廓线|
   |  D2  |    一双木棋     |   [P4363](https://www.luogu.com.cn/problem/P4363)  |            |
-  |  D3  |      暂无       |                                                    |            |
+  |  D3  |   序列妙妙值    |[UOJ549](https://vjudge.net/problem/UniversalOJ-549)|            |
   |  D4  |  最小斯坦纳树   |   [P6192](https://www.luogu.com.cn/problem/P6192)  |            |
   |  D4+ |     巧克力      |   [P7450](https://www.luogu.com.cn/problem/P7450)  | @沈心阁老师|
   |  D5  |    管道连接     |   [P3264](https://www.luogu.com.cn/problem/P3264)  |            |
