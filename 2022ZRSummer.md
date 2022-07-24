@@ -240,7 +240,7 @@ __感谢群友提供__
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   | 例题 | 幻想乡战略游戏  |   [P3345](https://www.luogu.com.cn/problem/P3345)  |            |
   | 例题 |Query on a tree V|  [SP2939](https://www.luogu.com.cn/problem/SP2939) | 也许可以LCT|
-  | 例题 |    成都七中     |   [P3345](https://www.luogu.com.cn/problem/P3345)  | @何昌璟老师|
+  | 例题 |    成都七中     |   [P5311](https://www.luogu.com.cn/problem/P5311)  | @何昌璟老师|
 
 致谢 [Z-301](https://github.com/Z-301) 对本题单的贡献
 
