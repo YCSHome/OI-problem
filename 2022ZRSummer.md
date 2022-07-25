@@ -290,16 +290,24 @@ __感谢群友提供__
 
 ## 2022.7.25
 
-练习赛 暂无
+[练习赛](https://vjudge.net/contest/506704)
 
-+ 动态规划(摆烂.jpg)
++ 数位dp(摆烂.jpg)
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  A1  |    数字计数     |   [P2602](https://www.luogu.com.cn/problem/P2602)  |            |
   |  A2  |    手机号码     |   [P4124](https://www.luogu.com.cn/problem/P4124)  |            |
+
++ 矩阵快速幂及其优化dp
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  B1  |    矩阵加速     |   [P1939](https://www.luogu.com.cn/problem/P1939)  |            |
   |  B2  |   PALACINKE     |   [P5188](https://www.luogu.com.cn/problem/P5188)  |            |
   | 群友 |     美食家      |   [P6772](https://www.luogu.com.cn/problem/P6772)  |  膜拜群友  |
+
++ 单调队列优化dp
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  C1  |Watching Fireworks is Fun|[CF372C](https://www.luogu.com.cn/problem/CF372C)|       |
   |  D1  |    宝物筛选     |   [P1776](https://www.luogu.com.cn/problem/P1776)  |            |
   |  D1  |    多重背包I    |[AcWing4](https://www.acwing.com/problem/content/4/)|            |
@@ -308,7 +316,15 @@ __感谢群友提供__
   |  D2  |  Lucky Numbers |[CF1428G1](https://www.luogu.com.cn/problem/CF1428G1)|Easy Version|
   |  D2  |  Lucky Numbers |[CF1428G2](https://www.luogu.com.cn/problem/CF1428G2)|Hard Version|
   |  D3  |     跳楼机      |   [P3403](https://www.luogu.com.cn/problem/P3403)  |            |
+
++ 分治优化dp
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  E1  |      Sum        | [CF1442D](https://www.luogu.com.cn/problem/CF1442D)|            |
   |  E2  |      序列       |   [P4093](https://www.luogu.com.cn/problem/P4093)  |            |
+
++ dp的其他寄巧
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  F1  |    混乱邪恶     |   [P7606](https://www.luogu.com.cn/problem/P7606)  |我是守序邪恶|
   |  F2  |    Communism    | [CF1450G](https://www.luogu.com.cn/problem/CF1450G)|            |
