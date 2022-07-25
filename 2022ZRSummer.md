@@ -286,7 +286,7 @@ __感谢群友提供__
   |  D4  |  最小斯坦纳树   |   [P6192](https://www.luogu.com.cn/problem/P6192)  |            |
   |  D4+ |     巧克力      |   [P7450](https://www.luogu.com.cn/problem/P7450)  | @沈心阁老师|
   |  D5  |    管道连接     |   [P3264](https://www.luogu.com.cn/problem/P3264)  |            |
-  |  E1  |    插头dp       |   [P5056](https://www.luogu.com.cn/problem/P5056)  |            |
+  |  E1  |     插头dp      |   [P5056](https://www.luogu.com.cn/problem/P5056)  |            |
 
 ## 2022.7.25
 
@@ -302,3 +302,13 @@ __感谢群友提供__
   | 群友 |     美食家      |   [P6772](https://www.luogu.com.cn/problem/P6772)  |  膜拜群友  |
   |  C1  |Watching Fireworks is Fun|[CF372C](https://www.luogu.com.cn/problem/CF372C)|       |
   |  D1  |    宝物筛选     |   [P1776](https://www.luogu.com.cn/problem/P1776)  |            |
+  |  D1  |    多重背包I    |[AcWing4](https://www.acwing.com/problem/content/4/)|            |
+  |  D1  |    多重背包II   |[AcWing5](https://www.acwing.com/problem/content/5/)|            |
+  |  D1  |    多重背包III  |[AcWing6](https://www.acwing.com/problem/content/6/)|            |
+  |  D2  |  Lucky Numbers |[CF1428G1](https://www.luogu.com.cn/problem/CF1428G1)|Easy Version|
+  |  D2  |  Lucky Numbers |[CF1428G2](https://www.luogu.com.cn/problem/CF1428G2)|Hard Version|
+  |  D3  |     跳楼机      |   [P3403](https://www.luogu.com.cn/problem/P3403)  |            |
+  |  E1  |      Sum        | [CF1442D](https://www.luogu.com.cn/problem/CF1442D)|            |
+  |  E2  |      序列       |   [P4093](https://www.luogu.com.cn/problem/P4093)  |            |
+  |  F1  |    混乱邪恶     |   [P7606](https://www.luogu.com.cn/problem/P7606)  |我是守序邪恶|
+  |  F2  |    Communism    | [CF1450G](https://www.luogu.com.cn/problem/CF1450G)|            |
