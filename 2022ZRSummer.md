@@ -297,3 +297,8 @@ __感谢群友提供__
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  A1  |    数字计数     |   [P2602](https://www.luogu.com.cn/problem/P2602)  |            |
   |  A2  |    手机号码     |   [P4124](https://www.luogu.com.cn/problem/P4124)  |            |
+  |  B1  |    矩阵加速     |   [P1939](https://www.luogu.com.cn/problem/P1939)  |            |
+  |  B2  |   PALACINKE     |   [P5188](https://www.luogu.com.cn/problem/P5188)  |            |
+  | 群友 |     美食家      |   [P6772](https://www.luogu.com.cn/problem/P6772)  |  膜拜群友  |
+  |  C1  |Watching Fireworks is Fun|[CF372C](https://www.luogu.com.cn/problem/CF372C)|       |
+  |  D1  |    宝物筛选     |   [P1776](https://www.luogu.com.cn/problem/P1776)  |            |
