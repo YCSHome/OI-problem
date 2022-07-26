@@ -328,3 +328,28 @@ __感谢群友提供__
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   |  F1  |    混乱邪恶     |   [P7606](https://www.luogu.com.cn/problem/P7606)  |我是守序邪恶|
   |  F2  |    Communism    | [CF1450G](https://www.luogu.com.cn/problem/CF1450G)|            |
+
+## 2022.7.26
+
++ 斜率优化DP
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  A1  |     任务安排    |   [P2365](https://www.luogu.com.cn/problem/P2365)  |            |
+  |  A2  |     任务安排    |   [P5785](https://www.luogu.com.cn/problem/P5785)  |            |
+  |  A3  | Professor's task|   [CF70D](https://www.luogu.com.cn/problem/CF70D)  |            |
+  |  A4  |    特别行动队   |   [P3628](https://www.luogu.com.cn/problem/P3628)  |            |
+  |  A5  | Building Bridges|   [P4655](https://www.luogu.com.cn/problem/P4655)  |            |
+  |  A6  |  Computer Game  | [CF1067D](https://www.luogu.com.cn/problem/CF1067D)|            |
+
++ WQS 二分
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  B1  |     Tree I      |   [P2619](https://www.luogu.com.cn/problem/P2619)  |            |
+  |  B2  | Gosha is hunting|  [CF739E](https://www.luogu.com.cn/problem/CF739E) |            |
+
++ 四边形不等逝优化DP
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  C1  |Yet Another Minimization Problem|[CF868F](https://www.luogu.com.cn/problem/CF868F)||
+  |  C2  |Lightning Conductor| [P3515](https://www.luogu.com.cn/problem/P3515)  |            |
+  |  C3  |    石子合并     |  [P1880](https://www.luogu.com.cn/problem/P1880)   |            |
