@@ -353,3 +353,7 @@ __感谢群友提供__
   |  C1  |Yet Another Minimization Problem|[CF868F](https://www.luogu.com.cn/problem/CF868F)||
   |  C2  |Lightning Conductor| [P3515](https://www.luogu.com.cn/problem/P3515)  |            |
   |  C3  |    石子合并     |  [P1880](https://www.luogu.com.cn/problem/P1880)   |            |
+
+## 2022.7.27
+
++ 动态DP
