@@ -389,8 +389,8 @@ __感谢群友提供__
 + 动态DP
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
-  | 板子 |"动态 DP"&动态树分治|[P4719](https://www.luogu.com.cn/problem/P4719)   |            |
-  | 例题 |  保卫王国       |[P5024](https://www.luogu.com.cn/problem/P5024)   |          |
+  | 板子 |"动态 DP"&动态树分治|[P4719](https://www.luogu.com.cn/problem/P4719)  |            |
+  | 例题 |  保卫王国       |[P5024](https://www.luogu.com.cn/problem/P5024)     |            |
   | 例题 |  Minimax 搜索   |   [P5281](https://www.luogu.com.cn/problem/P5281)  |            |
   | 例题 |  Minimax 搜索   | [LOJ3044](https://vjudge.net/problem/LibreOJ-3044) |            |
-  | 例题 | LCC | [CF1286D](https://www.luogu.com.cn/problem/CF1286D) | qwq |
+  | 例题 |      LCC        | [CF1286D](https://www.luogu.com.cn/problem/CF1286D)|    qwq     |
