@@ -394,3 +394,18 @@ __感谢群友提供__
   | 例题 |  Minimax 搜索   |   [P5281](https://www.luogu.com.cn/problem/P5281)  |            |
   | 例题 |  Minimax 搜索   | [LOJ3044](https://vjudge.net/problem/LibreOJ-3044) |            |
   | 例题 |      LCC        | [CF1286D](https://www.luogu.com.cn/problem/CF1286D)|    qwq     |
+
+
+## 2022.7.28
+
+今日比赛。
+
+[rank榜单](http://zhengruioi.com/contest/1210/standings)
+
++ 题目
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  A题 |    非常恐怖！6G！    |     [2264](http://zhengruioi.com/problem/2268)     |       |
+  |  B题 |    抽象艺术     |     [2265](http://zhengruioi.com/problem/2269)     |            |
+  |  C题 |    FOR一遍搞起来     |     [2266](http://zhengruioi.com/problem/2270)     |            |
+  |  D题 |    他卷得我哭死     |     [2267](http://zhengruioi.com/problem/2271)     |            |
