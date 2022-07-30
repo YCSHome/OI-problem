@@ -409,3 +409,18 @@ __感谢群友提供__
   |  B题 |    抽象艺术     |     [2265](http://zhengruioi.com/problem/2269)     |            |
   |  C题 |    FOR一遍搞起来     |     [2266](http://zhengruioi.com/problem/2270)     |            |
   |  D题 |    他卷得我哭死     |     [2267](http://zhengruioi.com/problem/2271)     |            |
+  
+## 2022.7.29
+诶嘿，今天没有题目哦～
+
+## 2022.7.30
+
++ 数学 :+1:
+| 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  | 例题 |  公约数的和       |[P1390](https://www.luogu.com.cn/problem/P1390)     |            |
+  | 例题 |  能量采集      |   [P1447](https://www.luogu.com.cn/problem/P1447)  |            |
+  | 例题 |  最小公倍数之和   | [P3911](https://www.luogu.com.cn/problem/P3911) |            |
+  | 例题 |      GCD?LCM!   | [HDU5382](http://acm.hdu.edu.cn/showproblem.php?pid=5382)|        |
+  | 例题 | 【模板】杜教筛（Sum）   | [P4213](https://www.luogu.com.cn/problem/P4213)|        |
+  | 例题 | 简单的数学题 | [P3768](https://www.luogu.com.cn/problem/P3768) | |
