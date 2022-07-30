@@ -421,6 +421,8 @@ __感谢群友提供__
   | 例题 |  公约数的和       |[P1390](https://www.luogu.com.cn/problem/P1390)     |            |
   | 例题 |  能量采集      |   [P1447](https://www.luogu.com.cn/problem/P1447)  |            |
   | 例题 |  最小公倍数之和   | [P3911](https://www.luogu.com.cn/problem/P3911) |            |
+  | 例题 | YY的GCD | [P2257](https://www.luogu.com.cn/problem/P2257) | |
   | 例题 |      GCD?LCM!   | [HDU5382](http://acm.hdu.edu.cn/showproblem.php?pid=5382)|        |
   | 例题 | 【模板】杜教筛（Sum）   | [P4213](https://www.luogu.com.cn/problem/P4213)|        |
   | 例题 | 简单的数学题 | [P3768](https://www.luogu.com.cn/problem/P3768) | |
+  | 例题 | 约数个数和 | [P3327](https://www.luogu.com.cn/problem/P3327) | |
