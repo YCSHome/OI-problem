@@ -405,10 +405,10 @@ __感谢群友提供__
 + 题目
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
-  |  A题 |    非常恐怖！6G！    |     [2264](http://zhengruioi.com/problem/2268)     |       |
+  |  A题 |   非常恐怖！6G！|     [2264](http://zhengruioi.com/problem/2268)     |            |
   |  B题 |    抽象艺术     |     [2265](http://zhengruioi.com/problem/2269)     |            |
-  |  C题 |    FOR一遍搞起来     |     [2266](http://zhengruioi.com/problem/2270)     |            |
-  |  D题 |    他卷得我哭死     |     [2267](http://zhengruioi.com/problem/2271)     |            |
+  |  C题 |  FOR一遍搞起来  |     [2266](http://zhengruioi.com/problem/2270)     |            |
+  |  D题 |  他卷得我哭死   |     [2267](http://zhengruioi.com/problem/2271)     |            |
   
 ## 2022.7.29
 诶嘿，今天没有题目哦～
@@ -416,13 +416,28 @@ __感谢群友提供__
 ## 2022.7.30
 
 + 数学 :+1:
-| 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
-  | 例题 |  公约数的和       |[P1390](https://www.luogu.com.cn/problem/P1390)     |            |
-  | 例题 |  能量采集      |   [P1447](https://www.luogu.com.cn/problem/P1447)  |            |
-  | 例题 |  最小公倍数之和   | [P3911](https://www.luogu.com.cn/problem/P3911) |            |
-  | 例题 | YY的GCD | [P2257](https://www.luogu.com.cn/problem/P2257) | |
-  | 例题 |      GCD?LCM!   | [HDU5382](http://acm.hdu.edu.cn/showproblem.php?pid=5382)|        |
-  | 例题 | 【模板】杜教筛（Sum）   | [P4213](https://www.luogu.com.cn/problem/P4213)|        |
-  | 例题 | 简单的数学题 | [P3768](https://www.luogu.com.cn/problem/P3768) | |
-  | 例题 | 约数个数和 | [P3327](https://www.luogu.com.cn/problem/P3327) | |
+  | 例题 |   公约数的和    |   [P1390](https://www.luogu.com.cn/problem/P1390)  |            |
+  | 例题 |    能量采集     |   [P1447](https://www.luogu.com.cn/problem/P1447)  |            |
+  | 例题 | 最小公倍数之和  |   [P3911](https://www.luogu.com.cn/problem/P3911)  |            |
+  | 例题 |    YY的GCD      |   [P2257](https://www.luogu.com.cn/problem/P2257)  |            |
+  | 例题 |    GCD?LCM!     | [HDU5382](http://acm.hdu.edu.cn/showproblem.php?pid=5382)|      |
+  | 例题 |【模板】杜教筛（Sum）|[P4213](https://www.luogu.com.cn/problem/P4213) |            |
+  | 例题 |  简单的数学题   |   [P3768](https://www.luogu.com.cn/problem/P3768)  |            |
+  | 例题 |   约数个数和    |   [P3327](https://www.luogu.com.cn/problem/P3327)  |            |
+
+## 2022.7.31
+
++ 数学 :-)
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  | 例题 |Intercity Travelling|[CF1009E](https://www.luogu.com.cn/problem/CF1009E)|          |
+  | 例题 | Alternating Tree|  [CF960E](https://www.luogu.com.cn/problem/CF960E) |            |
+  | 例题 |   Max History   |  [CF938E](https://www.luogu.com.cn/problem/CF938E) |            |
+  | 例题 |Airplane Arrangements|[CF838D](https://www.luogu.com.cn/problem/CF838D)|           |
+  | 例题 |Sky Full of Stars|  [CF997C](https://www.luogu.com.cn/problem/CF997C) |            |
+  | 例题 |  Make It One    | [CF1043F](https://www.luogu.com.cn/problem/CF1043F)|            |
+  | 例题 |  黑暗前的幻想乡 |   [P4336](https://www.luogu.com.cn/problem/P4336)  |            |
+  | 例题 |      重建       |   [P3317](https://www.luogu.com.cn/problem/P3317)  |            |
+  | 例题 |  最小生成树计数 |   [P4208](https://www.luogu.com.cn/problem/P4208)  |            |
