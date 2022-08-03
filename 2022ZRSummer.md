@@ -465,10 +465,52 @@ __感谢群友提供__
 + 题目 :joy:
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
-  |  A题 |   非常恐怖！6G！|      [339](http://zhengruioi.com/problem/339)      |            |
-  |  B题 |    抽象艺术     |      [340](http://zhengruioi.com/problem/340)      |            |
-  |  C题 |  FOR一遍搞起来  |      [341](http://zhengruioi.com/problem/341)      |            |
-  |  D题 |  他卷得我哭死   |      [342](http://zhengruioi.com/problem/342)      |            |
+  |  A题 |      氪金       |      [339](http://zhengruioi.com/problem/339)      |            |
+  |  B题 |      数论       |      [340](http://zhengruioi.com/problem/340)      |            |
+  |  C题 |      唱歌       |      [341](http://zhengruioi.com/problem/341)      |            |
+  |  D题 |      评测       |      [342](http://zhengruioi.com/problem/342)      |            |
+
+## 2022.8.2
+
+~~脱离数学的苦海吧~~
+
+[练习赛](https://vjudge.net/contest/508171)
+
++ 博弈论 :smoking:
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  | 例题 |    nim 游戏     |   [P2197](https://www.luogu.com.cn/problem/P2197)  |            |
+  | 例题 |  Solo Tree Game |[GYM102984G](https://vjudge.net/problem/Gym-102984G)|            |
+  | 例题 |     黑白棋      |   [P2490](https://www.luogu.com.cn/problem/P2490)  |            |
+  | 例题 | 小约翰的游戏John|[BZOJ1022](https://vjudge.net/problem/%E9%BB%91%E6%9A%97%E7%88%86%E7%82%B8-1022)||
+  | 例题 |   KAM-Pebbles   |   [P3480](https://www.luogu.com.cn/problem/P3480)  |            |
+  | 例题 |   Decrementing  |  [AT2305](https://www.luogu.com.cn/problem/AT2305) |  agc010_d  |
+  | 例题 |Black and White Tree|[AT2376](https://www.luogu.com.cn/problem/AT2376)|  agc014_d  |
+  | 例题 |    Tree Tag     | [CF1404B](https://www.luogu.com.cn/problem/CF1404B)|   双倍经验 |
+  | 例题 |    Tree Tag     |[CF1405D](https://vjudge.net/problem/CodeForces-1405D)|          |
+
++ FFT :heart:
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  | ???? | 多项式算法(FFT) |   [P3803](https://www.luogu.com.cn/problem/P3803)  |            |
+  | ???? |   A * B 升级版  |   [P1919](https://www.luogu.com.cn/problem/P1919)  |            |
+  | ???? |       力        |   [P3338](https://www.luogu.com.cn/problem/P3338)  |            |
+  | ???? |   残缺的字符串  |   [P4173](https://www.luogu.com.cn/problem/P4173)  |            |
+
+## 2022.8.3
+
+~~你们的派老师忘记来听课了~~  
+
+~~我能不找吗。找不到题了:cry:~~
+
++ 构造 :laughing:
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  C1  |   Robot Arms    |  [AT4432](https://www.luogu.com.cn/problem/AT4432) |  arc103_ba |
+  |  C2  |    Not Same     | [CF1227G](https://www.luogu.com.cn/problem/CF1227G)|            |
+  |  C3  |Inverse of Rows and Columns|[CF1157G](https://www.luogu.com.cn/problem/CF1157G)|   |
+  |  C4  |Construct the Binary Tree|[CF1311E](https://www.luogu.com.cn/problem/CF1311E)|     |
+  |  C5  | Skolem XOR Tree |  [AT5140](https://www.luogu.com.cn/problem/AT5140) |  agc035_c  |
 
 ## 2022.8.4 
 今天模拟赛
