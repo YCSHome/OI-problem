@@ -1,5 +1,7 @@
 # 暑假题单汇总
 
+<font> 1231 </font>
+
 注：本页所有练习赛密码均为 `clbzdq` 。
 
 ## 目录
@@ -422,6 +424,7 @@ __感谢群友提供__
   |  D题 |  他卷得我哭死   |     [2267](http://zhengruioi.com/problem/2271)     |            |
   
 ## 2022.7.29
+
 诶嘿，今天没有题目哦～
 
 ## 2022.7.30
@@ -444,7 +447,7 @@ __感谢群友提供__
 
 [练习赛](https://vjudge.net/contest/507837)
 
-+ 数学 :-)
++ 数学 :smile:
   | 来源 |      题目       |                        题号                        | 描述或吐槽 |
   |:----:|:---------------:|:--------------------------------------------------:|:----------:|
   | 例题 |Intercity Travelling|[CF1009E](https://www.luogu.com.cn/problem/CF1009E)|          |
@@ -456,3 +459,15 @@ __感谢群友提供__
   | 例题 |  黑暗前的幻想乡 |   [P4336](https://www.luogu.com.cn/problem/P4336)  |            |
   | 例题 |      重建       |   [P3317](https://www.luogu.com.cn/problem/P3317)  |            |
   | 例题 |  最小生成树计数 |   [P4208](https://www.luogu.com.cn/problem/P4208)  |            |
+
+## 2022.8.1
+
+[rank榜单](http://zhengruioi.com/contest/1214/standings)
+
++ 题目 :joy:
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  A题 |   非常恐怖！6G！|      [339](http://zhengruioi.com/problem/339)      |            |
+  |  B题 |    抽象艺术     |      [340](http://zhengruioi.com/problem/340)      |            |
+  |  C题 |  FOR一遍搞起来  |      [341](http://zhengruioi.com/problem/341)      |            |
+  |  D题 |  他卷得我哭死   |      [342](http://zhengruioi.com/problem/342)      |            |
