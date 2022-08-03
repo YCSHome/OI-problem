@@ -460,6 +460,7 @@ __感谢群友提供__
   | 例题 |      重建       |   [P3317](https://www.luogu.com.cn/problem/P3317)  |            |
   | 例题 |  最小生成树计数 |   [P4208](https://www.luogu.com.cn/problem/P4208)  |            |
 
+<<<<<<< HEAD
 ## 2022.8.1
 
 [rank榜单](http://zhengruioi.com/contest/1214/standings)
@@ -471,3 +472,9 @@ __感谢群友提供__
   |  B题 |    抽象艺术     |      [340](http://zhengruioi.com/problem/340)      |            |
   |  C题 |  FOR一遍搞起来  |      [341](http://zhengruioi.com/problem/341)      |            |
   |  D题 |  他卷得我哭死   |      [342](http://zhengruioi.com/problem/342)      |            |
+=======
+## 2022.8.4 
+今天模拟赛
+[T1](https://codeforces.com/group/3gnDlxsBON/contest/389326/problem/A)
+[T2](https://codeforces.com/group/3gnDlxsBON/contest/389496/problem/A)
+>>>>>>> 2cfc85e57d6d2a8f6547e84c68e4e9071d9fab28
