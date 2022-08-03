@@ -456,3 +456,8 @@ __感谢群友提供__
   | 例题 |  黑暗前的幻想乡 |   [P4336](https://www.luogu.com.cn/problem/P4336)  |            |
   | 例题 |      重建       |   [P3317](https://www.luogu.com.cn/problem/P3317)  |            |
   | 例题 |  最小生成树计数 |   [P4208](https://www.luogu.com.cn/problem/P4208)  |            |
+
+## 2022.8.4 
+今天模拟赛
+[T1](https://codeforces.com/group/3gnDlxsBON/contest/389326/problem/A)
+[T2](https://codeforces.com/group/3gnDlxsBON/contest/389496/problem/A)
