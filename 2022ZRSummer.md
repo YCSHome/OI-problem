@@ -7,36 +7,32 @@
 __洛谷下可能不可用__
 
 [目录](#目录)
-
-[2022.7.17](#2022717)
-
-[2022.7.18](#2022718)
-
-[2022.7.19](#2022719)
-
-[2022.7.20](#2022720)
-
-[2022.7.21](#2022721)
-
-[2022.7.22](#2022722)
-
-[2022.7.23](#2022723)
-
-[2022.7.24](#2022724)
-
-[2022.7.25](#2022725)
-
-[2022.7.26](#2022726)
-
-[2022.7.27](#2022727)
-
-[2022.7.28](#2022728)
-
-[2022.7.29](#2022729)
-
-[2022.7.30](#2022730)
-
-[2022.7.31](#2022731)
+- [2022.7.17:](#2022717)
+- [2022.7.18:](#2022718)
+- [2022.7.19:](#2022719)
+- [2022.7.20:](#2022720)
+- [2022.7.21:](#2022721)
+- [2022.7.22](#2022722)
+- [2022.7.23](#2022723)
+- [2022.7.24](#2022724)
+- [2022.7.25](#2022725)
+- [2022.7.26](#2022726)
+- [2022.7.27](#2022727)
+- [2022.7.28](#2022728)
+- [2022.7.29](#2022729)
+- [2022.7.30](#2022730)
+- [2022.7.31](#2022731)
+- [2022.8.1](#202281)
+- [2022.8.2](#202282)
+- [2022.8.3](#202283)
+- [2022.8.4](#202284)
+- [2022.8.5](#202285)
+- [2022.8.6](#202286)
+- [2022.8.7](#202287)
+- [2022.8.8](#202288)
+- [2022.8.9](#202289)
+- [2022.8.10](#2022810)
+- [2022.8.11](#2022811)
 
 
 ## 2022.7.17:
@@ -516,3 +512,89 @@ __感谢群友提供__
 今天模拟赛
 [T1](https://codeforces.com/group/3gnDlxsBON/contest/389326/problem/A)
 [T2](https://codeforces.com/group/3gnDlxsBON/contest/389496/problem/A)
+
+
+~~逊w 来接班了~~
+
+
+## 2022.8.5
+
+[练习赛](https://vjudge.net/contest/508749)
+
++ KMP
+  |来源|题目|题号|备注|
+  |:---:|:---:|:---:|:---:|
+  |模板|KMP|[P3375](https://www.luogu.com.cn/problem/P3375)|洛谷真是垃圾|
+  |模板|KMP求循环节|[POJ2406](http://poj.org/problem?id=2406)|注意：本题是求最小循环节，而课件中是所有循环节|
+  |模板|树上KMP|没找到|也许是老师口胡的|
+  |例题|CHO-Hamsters|[P3502](https://www.luogu.com.cn/problem/P3502)|POI2010|
+  |例题|SZA-Template|[P3426](https://www.luogu.com.cn/problem/P3426)|POI2005|
+  |例题|Rank KMP|没找到|应该有来源，请更正|
+
++ AC 自动机
+  |来源|题目|题号|备注|
+  |:---:|:---:|:---:|:---:|
+  |模板|AC 自动机|[P3808](https://www.luogu.com.cn/problem/P3808)|简单版|
+  |模板|AC 自动机|[P3796](https://www.luogu.com.cn/problem/P3796)|加强版|
+  |模板|AC 自动机|[P5357](https://www.luogu.com.cn/problem/P5357)|二次加强版|
+  |例题|阿狸的打字机|[P2414](https://www.luogu.com.cn/problem/P2414)|NOI2011|
+  |例题|奥术神杖|[5319](https://www.luogu.com.cn/problem/P5319)|BJOI2019|
+  |例题|病毒|[LOJ3337](https://loj.ac/p/3337)|BalticOI 2020(波罗的海)|
+
++ 卡哈希
+  [推荐阅读](https://notes.sshwy.name/Math/Rolling-Hash-and-Hack/)
+
+## 2022.8.6
+
+[练习赛](https://vjudge.net/contest/508956)
+
++ Manacher
+  |来源|题目|题号|备注|
+  |:---:|:---:|:---:|:---:|
+  |模板|Manacher|[P3805](https://www.luogu.com.cn/problem/P3805)||
+  |例题|Tricky and Clever Password|[CF30E](https://www.luogu.com.cn/problem/CF30E)||
+
++ Z 函数(扩展 KMP)
+  |来源|题目|题号|备注|
+  |:---:|:---:|:---:|:---:|
+  |模板|Z 函数|[P5410](https://www.luogu.com.cn/problem/P5410)|也叫做“扩展 KMP”|
+  |例题|Boboniu and Banknote Collection|[CF1394E](https://www.luogu.com.cn/problem/CF1394E)|Boboniu Round|
+
+## 2022.8.7
+
+[练习赛](https://vjudge.net/contest/509136)
+
++ 后缀数组
+  |来源|题目|题号|备注|
+  |:---:|:---:|:---:|:---:|
+  |模板|后缀数组|[P3809](https://www.luogu.com.cn/problem/P3809)|为啥叫作后缀排序啊|
+  |例题|优秀的拆分|[P1117](https://www.luogu.com.cn/problem/P1117)|NOI 2016|
+
++ 后缀自动机
+  |来源|题目|题号|备注|
+  |:---:|:---:|:---:|:---:|
+  |模板|后缀自动机|[P3804](https://www.luogu.com.cn/problem/P3804)||
+  |例题|Weather|[CF234C](https://www.luogu.com.cn/problem/CF234C)||
+  |例题|字符串|[P4094](https://www.luogu.com.cn/problem/P4094)|HEOI & TJOI 2016|
+  |例题|Cool Slogans|[CF700E](https://www.luogu.com.cn/problem/CF700E)||
+  |例题|How Many Substrings?|[某国外OJ](https://www.hackerrank.com/challenges/how-many-substrings/problem)||
+
++ 扩展阅读：
+  蟹老板的 SAM 入门题，虽然网站已经无法注册，但在 vjudge 上仍能看到题目，未来也许会得到数据。
+  [HihoCoder SAM题组](https://vjudge.net/contest/509521)
+
+## 2022.8.8
+
+[2022 Zhengrui lg Cup](https://acm.ecnu.edu.cn/contest/551/)
+
+## 2022.8.9
+
+[Day5](http://www.zhengruioi.com/contest/1221)
+
+## 2022.8.10
+
+摆了。
+
+## 2022.8.11
+
+摆了。
