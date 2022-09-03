@@ -516,3 +516,23 @@ __感谢群友提供__
 今天模拟赛
 [T1](https://codeforces.com/group/3gnDlxsBON/contest/389326/problem/A)
 [T2](https://codeforces.com/group/3gnDlxsBON/contest/389496/problem/A)
+
+[rank榜单](http://zhengruioi.com/contest/1217/standings)
+
++ 题目真多 :mask:
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  |  A题 | WZY 在线捐献瞳孔|     [2277](http://zhengruioi.com/problem/2277)     |            |
+  |  B题 |    沙城之巅     |     [2278](http://zhengruioi.com/problem/2278)     |            |
+  |  C题 |    城市定向     |     [2279](http://zhengruioi.com/problem/2279)     |            |
+  |  D题 | SUNZH 在线学猫叫|     [2280](http://zhengruioi.com/problem/2280)     |            |
+  |  E题 |    新知之神     |     [2281](http://zhengruioi.com/problem/2281)     |            |
+  |  F题 | SSHWY 在线送温暖|     [2282](http://zhengruioi.com/problem/2282)     |            |
+
+## 2022.8.5
+
++ KMP :zap:
+  | 来源 |      题目       |                        题号                        | 描述或吐槽 |
+  |:----:|:---------------:|:--------------------------------------------------:|:----------:|
+  | 例题 |  CHO-Hamsters   |   [P3502](https://www.luogu.com.cn/problem/P3502)  |            |
+  | 例题 |  SZA-Template   |   [P3426](https://www.luogu.com.cn/problem/P3426)  |            |
